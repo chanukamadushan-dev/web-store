@@ -3,3 +3,21 @@ h1{
      color: antiquewhite;
      text-align:center;
 }
+
+h3{
+    background-color : darkseagreen;
+    color: black;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+body{
+    background-image: url('../img/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    backdrop-filter: inherit;
+}
