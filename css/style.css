@@ -1,4 +1,4 @@
-h1{
+/* h1{
      background-color: darksalmon;
      color: antiquewhite;
      text-align:center;
@@ -11,10 +11,10 @@ h3{
 
 body{
     background-color: chartreuse;
-}
+} */
 
 body{
-    background-image: url('../img/background.png');
+    background-image: url('../img/background-era.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
